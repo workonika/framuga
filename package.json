@@ -1,0 +1,25 @@
+{
+  "name": "framuga",
+  "version": "1.0.0",
+  "description": "is a react-library for creating modal-window that can be invoke as a hook",
+  "main": "./root/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workonika/framuga.git"
+  },
+  "keywords": [
+    "framuga",
+    "modal-window",
+    "hook-modal",
+    "modal-hook"
+  ],
+  "author": "Kuzmin Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workonika/framuga/issues"
+  },
+  "homepage": "https://github.com/workonika/framuga#readme"
+}
